@@ -9,7 +9,7 @@ The exercises were taken from:
 
 ## Exercises
 
-### Exercise 1
+### Exercise 1 (difficulty: :peach:)
 
 Create a program that asks the user to enter their name and their age. 
 Print out a message addressed to them that tells them the year that they 
