@@ -52,3 +52,10 @@ this new list.
 3. Ask the user for a number and return a list that contains only 
 elements from the original list a that are smaller than that number 
 given by the user.
+
+### Exercise 4: **Divisors** (difficulty: :peach::peach:)
+
+Create a program that asks the user for a number and then prints out 
+a list of all the divisors of that number. (If you don’t know what a 
+divisor is, it is a number that divides evenly into another number. 
+For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)
