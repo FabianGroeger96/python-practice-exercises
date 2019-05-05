@@ -13,7 +13,7 @@ def main():
 
     print('list of numbers less than 5: {}'.format(list_less))
 
-    print('one line of code: {}'.format([number for number in a if number < 5]))
+    print('one line of code, less than 5: {}'.format([number for number in a if number < 5]))
 
     input_number = int(input('please enter a number to display numbers smaller than it: '))
     print('numbers smaller than {}: {}'.format(input_number, [number for number in a if number < input_number]))
