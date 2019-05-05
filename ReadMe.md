@@ -9,7 +9,7 @@ The exercises were taken from:
 
 ## Exercises
 
-### Exercise 1 **Character Input** (difficulty: :peach:)
+### Exercise 1: **Character Input** (difficulty: :peach:)
 
 Create a program that asks the user to enter their name and their age. 
 Print out a message addressed to them that tells them the year that they 
@@ -23,13 +23,13 @@ and printing out that many copies of the previous message.
 2. Print out that many copies of the previous message on separate lines. 
 (Hint: the string "\n is the same as pressing the ENTER button)
 
-### Exercise 2 **Odd Or Even** (difficulty: :peach:)
+### Exercise 2: **Odd Or Even** (difficulty: :peach:)
 
 Ask the user for a number. Depending on whether the number is even or odd, 
 print out an appropriate message to the user. Hint: how does an even / odd 
 number react differently when divided by 2?
 
-Extras:
+*Extras:*
 
 1. If the number is a multiple of 4, print out a different message.
 2. Ask the user for two numbers: one number to check (call it num) and 
