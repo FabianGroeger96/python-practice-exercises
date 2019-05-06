@@ -15,6 +15,8 @@ def main():
 
     count_output = int(input('please enter how many time you`d like to see the message: '))
 
+    print('{}\n'.format(output_string) * count_output)
+
     for i in range(0, count_output):
         print('count: {}, {}'.format((i+1), output_string))
 
