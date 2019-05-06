@@ -66,7 +66,7 @@ For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)
 
 Take two lists, say for example these two:   
 `
-a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]   
 b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 `   
 and write a program that returns a list that contains only the elements 
