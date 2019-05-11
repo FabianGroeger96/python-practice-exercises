@@ -76,3 +76,8 @@ program works on two lists of different sizes.
 1. Randomly generate two lists to test this
 2. Write this in one line of Python (don’t worry if you can’t figure 
 this out at this point - we’ll get to it soon)
+
+### Exercise 6: **String Lists** (difficulty: :peach::peach:)
+
+Ask the user for a string and print out whether this string is a palindrome 
+or not. (A palindrome is a string that reads the same forwards and backwards.)
